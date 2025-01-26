@@ -7,7 +7,7 @@ import OTPverification from "./pages/otpVerification/OTPverification";
 import ChangePassword from "./pages/changePassword/ChangePassword";
 import  "./index.css";
 import LandingPage from "./pages/landingpage/LandingPage";
-import UserDashboard from "./Pages/UserDashboard/UserDashboard.jsx";
+import UserDashboard from "./Pages/UserDashboard/UserDashboard";
 import { useState } from "react";
 import LoanRequests from "./components/LoanRequests/LoanRequests";
 
